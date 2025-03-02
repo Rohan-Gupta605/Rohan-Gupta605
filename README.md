@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan-Gupta605
 - 👀 I’m interested in tech related things
 - 🌱 I’m currently learning Python-Django 
-- 📫 How to reach me, email: rohangupta052003@gmail.com
+- 📫 How to reach me, email: rohangupta98301@gmail.com
 - 😄 Pronouns: He/him
 
 <!---
