@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan-Gupta605
 - 👀 I’m interested in tech related things
-- 🌱 I’m currently learning Python-Django 
+- 🌱 I’m currently learning Full Stack Developing 
 - 📫 How to reach me, email: rohangupta98301@gmail.com
 - 😄 Pronouns: He/him
 
